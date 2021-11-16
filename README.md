@@ -1,5 +1,5 @@
 # Simple_chronometre_AndroidStudio_App
-# Simple_Chronomètre_Android_Studio_Java
+
 Voici un chronomètre en Java , avec Android Studio ( application mobile )
 
 Vous pouvez soit copier coller le contenu des fichiers dans vos fichier "Activity" ou "xml",afin d'adapter le code à vôtre projet ou bien simplement télécharger les fichier et les importer directement dans vôtre projet Android Studio:
